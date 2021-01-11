@@ -2,10 +2,11 @@
 ## Software Recommendations:
 ### Code Editors & IDE:
 - [Notepad++](https://notepad-plus-plus.org) - Basic Code Editor
-- [Atom Code Editor](https://atom.io/)Really cool looking editor.
+- [Atom Code Editor](https://atom.io/) - Really cool looking Editor
+- [Visual Studio Code](https://code.visualstudio.com/) - Recommended for C/C++
 - [VSCodium](https://vscodium.com/) - Open Source build of Visual Studio Code
-- [Sublime Text](https://www.sublimetext.com/)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - recommended for java development
+- [Sublime Text](https://www.sublimetext.com/) - Sleek and lightweight Editor
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Recommended for java
 ### For Learning and Practice
 - [Programiz](https://www.programiz.com/) - Basic Tutorials and Example programs to practice
 ### To learn commandline on Windows:
